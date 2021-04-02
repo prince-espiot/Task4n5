@@ -1,0 +1,5 @@
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\bin\Debug\SquarTask.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\bin\Debug\SquarTask.pdb
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\obj\Debug\SquarTask.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\obj\Debug\SquarTask.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\obj\Debug\SquarTask.pdb

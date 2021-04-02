@@ -1,0 +1,5 @@
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\VectorTask\bin\Debug\Vector_Task.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\VectorTask\bin\Debug\Vector_Task.pdb
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\VectorTask\obj\Debug\Vector_Task.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\VectorTask\obj\Debug\Vector_Task.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\VectorTask\obj\Debug\Vector_Task.pdb

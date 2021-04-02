@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\SharpDevelop Projects\test\execises\obj\Debug\execises.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\SharpDevelop Projects\test\execises\bin\Debug\execises.exe
+C:\Users\admin\Documents\SharpDevelop Projects\test\execises\bin\Debug\execises.pdb
+C:\Users\admin\Documents\SharpDevelop Projects\test\execises\obj\Debug\execises.exe
+C:\Users\admin\Documents\SharpDevelop Projects\test\execises\obj\Debug\execises.pdb
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\bin\Debug\execises.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\bin\Debug\execises.pdb
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\obj\Debug\execises.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\obj\Debug\execises.exe
+C:\Users\admin\OneDrive\Documents\SharpDevelop Projects\test\execises\obj\Debug\execises.pdb
